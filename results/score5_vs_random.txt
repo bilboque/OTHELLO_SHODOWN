@@ -1,0 +1,100 @@
+Résultat:
+B |   |   |   |   |   |   |  
+  | B |   |   |   |   |   |  
+  | B | B | B | B | B |   |  
+  |   |   | B | B | B |   |  
+  |   |   | B | B | B |   |  
+  |   |   |   |   |   |   |  
+  |   |   |   |   |   |   |  
+  |   |   |   |   |   |   |  
+black win, 13, 0
+Résultat:
+B | B | W | W | W | W | W | W
+B | B | W | W | W | B | W | W
+B | B | W | B | W | W | W | W
+B | B | W | W | W | B | W | W
+B | B | W | B | W | W | W | W
+B | B | W | W | W | W | W | W
+B | B | W | B | B | W | W | W
+B | W | W | W | W | W | W | W
+white win, 21, 43
+Résultat:
+W | W | W | B | B | B | B | B
+W | W | W | B | B | B | B | B
+W | B | W | W | B | B | B | B
+W | B | W | B | W | B | B | B
+W | W | W | B | B | W | B | B
+W | W | W | B | B | B | B | B
+W | W | B | B | B | B | B | W
+W | W | B | B | B | B | B | B
+black win, 40, 24
+Résultat:
+W | W | W | B | B | B | B | B
+W | B | B | B | B | B | B | B
+W | B | B | B | B | B | B | B
+W | B | B | B | B | B | B | B
+W | B | B | B | W | B | B | W
+W | W | B | B | B | W | B | W
+W | W | W | W | W | W | W | W
+B | W | W | W | W | W | W | W
+black win, 36, 28
+Résultat:
+B | B | B | B | B | B | B | B
+B | B | W | B | B | B | W | W
+B | B | B | W | W | B | B | W
+B | B | B | W | B | W | B | W
+B | B | W | B | W | B | W | W
+B | B | B | W | B | B | W | W
+B | B | W | B | B | B | W | W
+B | W | W | W | W | W | W | W
+black win, 38, 26
+Résultat:
+B | B | B | B | B | B | B | W
+B | B | W | W | W | B | W | W
+B | B | B | B | B | W | B | W
+B | B | B | B | B | B | B | W
+B | B | B | B | B | W | B | W
+B | W | B | W | B | W | B | W
+B | B | B | B | W | B | W | W
+B | B | B | B | B | B | B | W
+black win, 45, 19
+Résultat:
+B | W | B | B | B | B | B | B
+B | W | W | B | B | B | B | B
+B | W | B | W | B | B | B | B
+B | B | W | B | W | B | W | B
+B | B | B | B | B | B | W | B
+B | B | B | B | B | B | B | B
+B | B | B | B | B | B | B | B
+B | B | B | B | B | B | B | B
+black win, 55, 9
+Résultat:
+B | B | B | B | B | B | B | B
+B | B | B | B | B | B | B |  
+B | B | B | B | B | B | B | B
+B | B | B | B | B | B |   |  
+B | B | B | B | B | B |   |  
+B | B | B | B | B | B | B |  
+B | B | B | B | B | B |   |  
+B | B | B | B | B | B | B |  
+black win, 55, 0
+Résultat:
+B | B | B | B | B | B | B | W
+B | B | B | B | B | B | B | B
+B | B | W | B | B | B | B | B
+B | B | B | B | B | B | B | B
+B | B | B | B | B | B | B | B
+B | B | B | W | B | B | B | B
+B | B | B | B | B | B | B | B
+B | B | B | B | B | B | B | W
+black win, 60, 4
+Résultat:
+B | B | B | B | B | B | W | B
+B | B | B | B | B | W | B | B
+B | B | B | B | W | B | B | B
+B | B | B | W | B | B | B | B
+B | B | W | W | W | B | B | B
+B | B | B | W | B | W | B | B
+B | B | B | B | W | B | W | B
+B | B | B | B | B | W | W | W
+black win, 50, 14
